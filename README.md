@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python
 
-rm -rf ENC
+rm -rf TERMUX-SETUP
 
 git clone https://github.com/NAFIS-124/TERMUX-SETUP.git
 
